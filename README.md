@@ -5,11 +5,23 @@
 
 This repository is a tutorial for how to use TensorFlow's Object Detection API to train an object detection classifier for multiple objects on Windows 10.
 
-Original Version can be found here :- https://github.com/EdjeElectronics/TensorFlow-Object-Detection-API-Tutorial-Train-Multiple-Objects-Windows-10
+Original Version can be found here :- [EdjeElectronics](https://github.com/EdjeElectronics/TensorFlow-Object-Detection-API-Tutorial-Train-Multiple-Objects-Windows-10)
 
 ## Introduction
+Fire and Smoke detection using learning based approach.
 
 The purpose of this repo is to explain how to train your own convolutional neural network for detection classifier for smoke and fire, starting from scratch.
+
+Team:
+Shivaraj Chattannavar
+Dinesh Dhotrad
+
+This github project provides the learning based approach of dectecting fire and smoke in images. The non-annotated data is collected from various sources such as kaagle etc. 
+
+Firstly, the training data is annotated and provided to the Faster-RCNN-Inception-V2-COCO model from Tensorflow. The progress of the training job can be viewed by TensorBoard.
+
+After the training of annotated data, the model is trained now which is ready for detecting fire and smoke with the output of bounding boxes.
+
 
 
 ## Steps
