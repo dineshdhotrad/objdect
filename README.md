@@ -30,7 +30,7 @@ After the training of annotated data, the model is trained now which is ready fo
 
 ### 2: Set up TensorFlow Directory and Anaconda Virtual Environment
 #### 2a: Download or clone TensorFlow Object Detection API repository from GitHub
-[TensorFlow Model]https://github.com/tensorflow/models) *
+[TensorFlow Model](https://github.com/tensorflow/models) *
 
 *The Current Version is updated for V2...!
  
