@@ -61,8 +61,10 @@ python setup.py install
 ```
 
 ### 6: Gather and Label Pictures
+
 Now that the TensorFlow Object Detection API is all set up and ready to go, we need to provide the images it will use to train a new detection classifier.
-    Since we have already annotated the data-set we can skip this process
+
+Since we have already annotated the data-set we can skip this process
     
 ### 7:Generate Training Data
 ```
@@ -169,7 +171,9 @@ python model_main_tf2.py --pipeline_config_path=training/ssd_mobilenet_v2_320x32
 ```
 
 ##### If you get pycocotools error:
+
 S1: Install Visual Studio Build Tools > V14
+
 S2: pip install "git+https://github.com/philferriere/cocoapi.git#egg=pycocotools&subdirectory=PythonAPI"
 
 ### To View the log of training:
