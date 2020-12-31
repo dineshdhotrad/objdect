@@ -13,8 +13,7 @@ Fire and Smoke detection using learning based approach.
 The purpose of this repo is to explain how to train your own convolutional neural network for detection classifier for smoke and fire, starting from scratch.
 
 #### Team:
-##### -Shivaraj Chattannavar
-##### -Dinesh Dhotrad
+##### -Shivaraj Chattannavar \n -Dinesh Dhotrad
 
 This github project provides the learning based approach of dectecting fire and smoke in images. The non-annotated data is collected from various sources such as kaagle etc. 
 
