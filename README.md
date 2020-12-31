@@ -1,7 +1,7 @@
 # Object Detection Using TensorFlow API (TensorFlow V2) on Windows 10
 
 ## Brief Summary
-*Last updated: 10/31/2019 with TensorFlow v2.3.1*
+*Last updated: 10/31/2020 with TensorFlow v2.3.1*
 
 This repository is a tutorial for how to use TensorFlow's Object Detection API to train an object detection classifier for multiple objects on Windows 10.
 
