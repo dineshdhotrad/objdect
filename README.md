@@ -167,9 +167,7 @@ Make the following changes to the faster_rcnn_inception_v2_pets.config file. Not
 - Lines 179 and 181. In the train_input_reader section, change input_path and label_map_path to:
   - input_path : "<YOUR PATH FOR TF MODEL>/models/research/object_detection/gen1/train.record"
   - label_map_path: "<YOUR PATH FOR TF MODEL>/models/research/object_detection/training/labelmap.pbtxt"
-
-- Line 130. Change num_examples to the number of images you have in the \images\test directory.
-
+ 
 - Lines 191 and 195. In the eval_input_reader section, change input_path and label_map_path to:
   - input_path : "<YOUR PATH FOR TF MODEL>/models/research/object_detection/gen1/test.record"
   - label_map_path: "<YOUR PATH FOR TF MODEL>/models/research/object_detection/training/labelmap.pbtxt"
