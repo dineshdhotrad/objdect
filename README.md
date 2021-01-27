@@ -207,3 +207,4 @@ jupyter notebook objdetect.ipynb
 ```
 ### Results for our sample images
 ![alt-text-1](https://github.com/dineshdhotrad/tfv2_ObjectDetection/blob/main/Results/1.jpeg) ![alt-text-2](https://github.com/dineshdhotrad/tfv2_ObjectDetection/blob/main/Results/2.jpeg)
+<img src="https://github.com/dineshdhotrad/tfv2_ObjectDetection/blob/main/Results/1.jpeg" width="200"/>
